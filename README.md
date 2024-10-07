@@ -6,7 +6,7 @@ This tool was developed to demonstrate how straightforward it is to automate a s
 I developed this bot because people are currently selling bots automating [vipto.de](https://vipto.de/), when really it is extremely easy to develop — it took me approximately 10 minutes.<br><br>
 I tried running two instances of the program, and surprisingly, it worked; sent twice as many views. Usage of this tool will definitely cause the targeted video to be on the TikTok "For You" page — increases chances to become TikTok famous. Please refrain from using this **TikTok Automated Viewbot** as viewbotting is against TikTok's Terms of Service. Nevertheless, if you use this, you are doing it at your own risk. You have been warned.
  
-## Preview
+## Preview 
 ![](https://i.imgur.com/BQdDgDs.png)<br> 
 ![](https://i.imgur.com/uNN4beu.png) 
 
