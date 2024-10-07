@@ -8,7 +8,7 @@ I tried running two instances of the program, and surprisingly, it worked; sent 
 
 ## Preview
 ![](https://i.imgur.com/BQdDgDs.png)<br> 
-![](https://i.imgur.com/uNN4beu.png)
+![](https://i.imgur.com/uNN4beu.png) 
 
 # Guide on how to use these tool
 
