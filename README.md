@@ -24,7 +24,7 @@ I tried running two instances of the program, and surprisingly, it worked; sent 
   
 1. Check your Google Chrome version. If you have V.84, you can keep the included chromedriver.exe. If you have any other Google Chrome version, download chromedriver.exe with the matching version [here](https://chromedriver.chromium.org/downloads) to main.py's file directory. 
 2. Run main.py. 
-3. Solve the captcha. 
+3. Solve the captcha.  
 4. Paste a TikTok video URL — e.g. https://www.tiktok.com/@username/video/1234567891234567891. 
 5. All set!
  
