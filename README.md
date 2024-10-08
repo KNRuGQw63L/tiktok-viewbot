@@ -19,7 +19,7 @@ I tried running two instances of the program, and surprisingly, it worked; sent 
 3. Go in your file explorer and extract the ZIP file 
 
 4. Go in the extracted folder and open the start.bat file 
- 
+  
 5. Enjoy! 
   
 1. Check your Google Chrome version. If you have V.84, you can keep the included chromedriver.exe. If you have any other Google Chrome version, download chromedriver.exe with the matching version [here](https://chromedriver.chromium.org/downloads) to main.py's file directory.  
