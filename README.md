@@ -1,5 +1,5 @@
 # TikTok-Automated-Viewbot 
-Repeatedly sends TikTok Views to a video of choice.
+Repeatedly sends TikTok Views to a video of choice. 
   
 ## Information
 This tool was developed to demonstrate how straightforward it is to automate a service like [vipto.de](https://vipto.de/). They have their own TikTok Viewbot you can use, but can only send 1000 views each minute — it was recently changed from 30 to 60 seconds. My script automates that process, helping you go AFK (away from keyboard). Simply paste a TikTok video URL, come back in an hour and the TikTok video should have 60.000 more views! You will receive 1.440.000 views a day.<br><br>  
