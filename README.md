@@ -27,7 +27,7 @@ I tried running two instances of the program, and surprisingly, it worked; sent 
 3. Solve the captcha.  
 4. Paste a TikTok video URL — e.g. https://www.tiktok.com/@username/video/1234567891234567891.  
 5. All set!
- 
+  
 ## Check Google Chrome version  
 1. Navigate to the three dots at the top right corner of Google Chrome.
 2. Select "Help", and click "About Google Chrome".<br>
