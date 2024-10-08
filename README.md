@@ -16,7 +16,7 @@ I tried running two instances of the program, and surprisingly, it worked; sent 
 
 2. Download the repo as a ZIP
 
-3. Go in your file explorer and extract the ZIP file 
+3. Go in your file explorer and extract the ZIP file  
  
 4. Go in the extracted folder and open the start.bat file  
     
