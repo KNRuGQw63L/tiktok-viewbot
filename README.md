@@ -12,7 +12,7 @@ I tried running two instances of the program, and surprisingly, it worked; sent 
   
 # Guide on how to use these tool
  
-1. Install Python 
+1. Install Python  
 
 2. Download the repo as a ZIP
 
