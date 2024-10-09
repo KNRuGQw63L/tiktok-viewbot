@@ -35,4 +35,4 @@ I tried running two instances of the program, and surprisingly, it worked; sent 
 ![](https://i.imgur.com/aluXidt.png) 
  
 ## Legal Notice   
-Viewbotting is generally prohibited, and should under no circumstances be done. [vipto.de](https://vipto.de/) is not recommended to use as TikTok is strictly against viewbotting. **TikTok Automated Viewbot** automates that "illegal" process, so please refrain from using it — developed for educational purposes only. 
+Viewbotting is generally prohibited, and should under no circumstances be done. [vipto.de](https://vipto.de/) is not recommended to use as TikTok is strictly against viewbotting. **TikTok Automated Viewbot** automates that "illegal" process, so please refrain from using it — developed for educational purposes only.  
